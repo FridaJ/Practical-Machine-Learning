@@ -4,4 +4,4 @@ Assignments from a 2024 University course in Applied Machine Learning. Both Note
 | Assignment| files |
 |---|---|
 4 | aml_perceptron.py
- | aml_perceptron_multi.py
+\ | aml_perceptron_multi.py
